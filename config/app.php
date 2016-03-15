@@ -157,7 +157,8 @@ return [
         App\Providers\RouteServiceProvider::class,
         SocialiteProviders\Manager\ServiceProvider::class,
         Collective\Html\HtmlServiceProvider::class,
-        Spatie\Tail\TailServiceProvider::class
+        Spatie\Tail\TailServiceProvider::class,
+        Sapioweb\Geocode\GeocodeServiceProvider::class,
 
     ],
 

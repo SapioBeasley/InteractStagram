@@ -35,17 +35,15 @@ return [
 		'website',
 		'designer',
 		'flyersdesign',
-		// 'photography',
 		'webdesign',
 		'design',
 		'artwork',
 		'web',
+		'fisker',
+		'v10',
 		'website',
-		'abstract',
-		'abstract_buff',
-		'abstractart',
-		'abstracters_anonymous',
-		'abstraction',
+		'babe',
+		'supercar',
 		'abstracto',
 		'accessories',
 		'accessory',
@@ -63,29 +61,34 @@ return [
 		'graphicdesign',
 		'designteam',
 		'business',
+		'girlswithink',
 		'marketing',
 		'focus',
 		'entrepreneur',
 		'likeaboss',
 		'success',
+		'girlswithtatoos',
 		'blog',
 		'online',
 		'branding',
+		'inkedgirls',
+		'africanbeauty',
 		'socialmedia',
 		'computerscience',
 		'webgeeks',
 		'webgeek_ke',
 		'webdevelopment',
 		'videography',
+		'africanwoman',
 		'color',
+		'atlgirl',
 		'colour',
 		'videoediting',
 		'video',
-		'amazayn',
 		'amazing',
-		'amahone',
 		'amazingink',
 		'amc',
+		'africanqueen',
 		'amen',
 		'android',
 		'androidcommunity',
@@ -101,14 +104,13 @@ return [
 		'apple',
 		'appleiphone',
 		'aquaria',
-		// 'aquarium',
-		// 'archidaily',
+		'aquarium',
+		'archidaily',
 		'archilovers',
 		'architecture',
 		'architecturelovers',
 		'architectureporn',
-		// 'architexture',
-		// 'ariana',
+		'architexture',
 		'latenight',
 		'hardwork',
 		'hiphop',
@@ -124,7 +126,6 @@ return [
 		'music',
 		'holiday',
 		'happy',
-		'arianator',
 		'armcandy',
 		'armparty',
 		'armswag',
@@ -134,23 +135,311 @@ return [
 		'artsy',
 		'artwork',
 		'ash',
+		'bases',
+		'basket',
+		'basketball',
+		'bat',
+		'bday',
+		'beach',
+		'beam',
+		'beat',
+		'beats',
+		'beautiful',
+		'beautifulday',
+		'beauty',
+		'bed',
+		'bedtime',
+		'beer',
+		'beers',
+		'bronco',
+		'broncos',
+		'broncosnation',
 		'ashton',
 		'ashtonirwin',
 		'ask',
 		'askaway',
+		'bellybuttonring',
+		'bellyrings',
+		'benjamin',
+		'benjamins',
+		'blessed',
+		'bling',
+		'coffeelove',
+		'coffeelover',
+		'coffeelovers',
+		'blizzard',
+		'blonde',
+		'best',
+		'bestfriend',
+		'bestfriends',
+		'besties',
+		'bestoftheday',
+		'bestofvsco',
+		'bestsong',
+		'bike',
+		'bikelife',
+		'biker',
+		'bikergang',
+		'bills',
+		'birthday',
+		'birthdaycake',
+		'biz',
+		'black',
+		'blackandpurple',
+		'blackandwhite',
 		'askfm',
 		'askfmit',
 		'askfmme',
 		'askforask',
 		'askme',
 		'askmeanything',
+		'fashion',
+		'fashiongram',
+		'fashionhijabis',
+		'fashionista',
+		'fashionlovers',
+		'fashionmodesty',
+		'fashionpost',
+		'fashionshoes',
+		'fitnessmodel',
+		'ios',
+		'iphone',
+		'iphone3g',
+		'iphone3gs',
+		'iphone4',
+		'iphone5',
+		'iphonegraphic',
+		'iphonegraphy',
+		'instahair',
+		'instahappy',
+		'instahealth',
+		'instaheels',
+		'instahub',
+		'instajewelry',
+		'iphoneogram',
+		'iphoneographer',
+		'iphoneographers',
+		'iphoneography',
+		'iphoneology',
+		'iphoneonly',
+		'iphonesia',
+		'jewel',
+		'jewelry',
+		'jewelrygram',
+		'jewels',
+		'lifeofadventure',
+		'lifestyle',
+		'like4like',
+		'likeall',
+		'likealways',
+		'likebackteam',
+		'likeforlike',
+		'likes4likes',
+		'likesforlikes',
+		'liketeam',
+		'longhair',
+		'minimal',
+		'minimalhunter',
+		'minimalisbd',
+		'minimalism',
+		'minimalismo',
+		'minimalist',
+		'minimalista',
+		'minimalistic',
+		'minimalistics',
+		'minimalninja',
+		'minimalobsession',
+		'minimalove',
+		'minimalplanet',
+		'miss',
+		'longhairdontcare',
+		'lookbook',
+		'lookoftheday',
+		'loveheels',
+		'lunch',
+		'model',
+		'nobodysperfect',
+		'nofilter',
+		'noir',
+		'nola',
+		'nook',
+		'ocean',
+		'oct',
+		'october',
+		'office',
+		'old',
+		'online',
+		'ootd',
+		'ootdshare',
+		'opi',
+		'opinions',
+		'orange',
+		'ornaments',
+		'out',
+		'outfit',
+		'outfitoftheday',
+		'pleasecomment',
+		'pleasefollow',
+		'pleaselike',
+		'snap',
+		'snapchat',
+		'snapchatit',
+		'snapchatme',
+		'snapchatmegirl',
+		'snapchatmeimbored',
+		'snapchatmemaybe',
+		'snapchatmenow',
+		'snapchatmeplease',
+		'snapchatmguys',
+		'snapchatster',
+		'snapit',
+		'snapshot',
+		'sneakerheads',
+		'sneakerholics',
+		'tbt',
+		'urban',
+		'wristgame',
+		'yolo',
+		'sneakerporn',
+		'pleaseshoutout',
+		'outfitpost',
+		'overcast',
+		'ovo',
+		'ovoxo',
+		// 'pads
+		// 'page
+		// 'pages
+		// 'palettes
+		// 'pants
+		// 'paper
+		// 'parties
+		// 'partofme
+		// 'party
+		// 'partying
+		// 'partymusic
+		// 'pass
+		// 'passout
+		// 'pasteup
+		// 'payday
+		// 'payne
+		// 'peace
+		// 'peepmysneaks
+		// 'peer
+		// 'pen
+		// 'pencil
+		// 'peoplescreatives
+		// 'perfect
+		// 'perfectcurls
+		// 'perry
+		// 'perspective
+		// 'job
+		// 'jockey
+		// 'joke
+		// 'jokes
+		// 'joking
+		// 'irox_bw
+		// 'jacket
+		// 'jackolantern
+		// 'jam
+		// 'jan1
+		// 'jan12014
+		// 'jeans
+		// 'jellybean
+		// 'jersey
+		// 'jump
+		// 'justask
+		// 'justgoshoot
+		// 'justin
+		// 'justinb
+		// 'justinbieberswag
+		// 'justindb
+		// 'justindrewbieber
+		// 'justquestion
+		// 'katy
+		// 'katycat
+		// 'katycats
+		// 'katykat
+		// 'katykats
+		// 'katyperry
+		// 'keepitsimple
+		// 'kick
+		// 'kickflip
+		// 'kickinit
+		// 'kickit
+		// 'kickoff
+		// 'kicks
+		// 'kickstagram
+		// 'kid
+		// 'kids
+		// 'kik
+		// 'kikit
+		// 'kikme
+		// 'kikmebored
+		// 'kikmee
+		// 'kikmeguys
+		// 'kikmemaybe
+		// 'kikmeplease
+		// 'kikmessage
+		// 'kikmessanger
+		// 'kikmessenger
+		// 'kikplease
+		// 'kikster
+		// 'kindle
+		// 'kiss
+		// 'kisses
+		// 'kitten
+		// 'kittens
+		// 'kitty
+		// 'knockout
+		// 'knowledge
+		// 'kp
+		// 'l4l
+		// 'lady
+		// 'lake
+		// 'laptops
+		// 'lash
+		// 'lashes
+		// 'laugh
+		// 'laughing
+		// 'leaf
+		// 'leap
+		// 'letskik
+		// 'liam
+		// 'liampayne
+		// 'library
+		// 'life
+		// 'leavequestions
+		// 'leaves
+		// 'leeyum
+		// 'leeyumm
+		// 'leeyumpayne
+		// 'lessismore
+		// 'letsgobroncos
+		// 'letsgosomewhere
+		// 'pet
+		// 'petal
+		// 'petals
+		// 'pets
+		// 'pets_of_instagram
+		// 'petsagram
+		// 'petstagram
+		// 'phone
+		// 'photo
+		// 'photooftheday
+		// 'photos
+		// 'pic
+		// 'pickles
+		// 'picoftheday
+		// 'pics
+		// 'picture
+		// 'pictures
+		// 'pierced
+		// 'piercing
+		// 'piercingaddict
 		// 'askmemaybe
 		// 'askmesomething
 		// 'askmestuff
 		// 'asknow
-		// 'austin
-		// 'austinm
-		// 'austinmahone
 		// 'author
 		// 'autumn
 		// 'autumnweather
@@ -177,54 +466,9 @@ return [
 		// 'base
 		// 'baseball
 		// 'baseballbat
-		// 'bases
-		// 'basket
-		// 'basketball
-		// 'bat
-		// 'bday
-		// 'beach
-		// 'beam
-		// 'beat
-		// 'beats
-		// 'beautiful
-		// 'beautifulday
-		// 'beauty
-		// 'bed
-		// 'bedtime
-		// 'beer
-		// 'beers
-		// 'beiber
-		// 'beiberfever
-		// 'belieber
 		// 'believe
 		// 'believetour
 		// 'bellybar
-		// 'bellybuttonring
-		// 'bellyrings
-		'benjamin',
-		'benjamins',
-		'best',
-		'bestfriend',
-		'bestfriends',
-		'besties',
-		'bestoftheday',
-		'bestofvsco',
-		'bestsong',
-		'bike',
-		'bikelife',
-		'biker',
-		'bikergang',
-		'bills',
-		'birthday',
-		'birthdaycake',
-		'biz',
-		'black',
-		'blackandpurple',
-		'blackandwhite',
-		'blessed',
-		'bling',
-		'blizzard',
-		'blonde',
 		// 'bloom
 		// 'blooms
 		// 'blossom
@@ -262,9 +506,6 @@ return [
 		// 'bright
 		// 'brilliam
 		// 'bro
-		'bronco',
-		'broncos',
-		'broncosnation',
 		// 'brown
 		// 'brunette
 		// 'bug
@@ -359,9 +600,6 @@ return [
 		// 'coffeeaddict
 		// 'coffeegram
 		// 'coffeeholic
-		'coffeelove',
-		'coffeelover',
-		'coffeelovers',
 		// 'coffeemug
 		// 'coffeeoftheday
 		// 'coffiecup
@@ -460,8 +698,6 @@ return [
 		// 'diet
 		// 'dinner
 		// 'direct
-		// 'directioner
-		// 'directioners
 		// 'directmessage
 		// 'dough
 		// 'downpour
@@ -526,14 +762,36 @@ return [
 		// 'famous
 		// 'fans
 		// 'farm
-		'fashion',
-		'fashiongram',
-		'fashionhijabis',
-		'fashionista',
-		'fashionlovers',
-		'fashionmodesty',
-		'fashionpost',
-		'fashionshoes',
+		// 'piercings
+		// 'macro
+		// 'macro_creature_feature
+		// 'macrogardener
+		// 'lines
+		// 'lip
+		// 'look
+		// 'lookingup
+		// 'lookup
+		// 'luke
+		// 'lukehemmings
+		// 'lukey
+		// 'light
+		// 'lights
+		// 'lightsout
+		// 'likeback
+		// 'lipring
+		// 'lips
+		// 'lipstick
+		// 'liquor
+		// 'fitspo
+		// 'fives
+		// 'flawless
+		// 'flex
+		// 'flexibility
+		// 'flexible
+		// 'flick
+		// 'flicks
+		// 'flip
+		// 'focus
 		// 'father
 		// 'favoritesong
 		// 'feast
@@ -553,17 +811,6 @@ return [
 		// 'fitness
 		// 'fitnessaddict
 		// 'fitnessgear
-		'fitnessmodel',
-		// 'fitspo
-		// 'fives
-		// 'flawless
-		// 'flex
-		// 'flexibility
-		// 'flexible
-		// 'flick
-		// 'flicks
-		// 'flip
-		// 'focus
 		// 'foliage
 		// 'follow
 		// 'follow4follow
@@ -797,7 +1044,6 @@ return [
 		// 'insta
 		// 'insta_bw
 		// 'instaandroid
-		// 'instaariana
 		// 'instaart
 		// 'instaartist
 		// 'instaautumn
@@ -852,14 +1098,6 @@ return [
 		// 'instagramhub
 		// 'instagrammers
 		// 'instagrande
-		// 'instahair
-		// 'instahappy
-		// 'instahealth
-		// 'instaheels
-		// 'instahorses
-		// 'instahub
-		// 'instaiphone
-		// 'instajewelry
 		// 'instajob
 		// 'instakicks
 		// 'instakids
@@ -909,137 +1147,6 @@ return [
 		// 'instawed
 		// 'instawedding
 		// 'instawinter
-		// 'ios
-		// 'iphone
-		// 'iphone3g
-		// 'iphone3gs
-		// 'iphone4
-		// 'iphone5
-		// 'iphonegraphic
-		// 'iphonegraphy
-		// 'iphoneogram
-		// 'iphoneographer
-		// 'iphoneographers
-		// 'iphoneography
-		// 'iphoneology
-		// 'iphoneonly
-		// 'iphonesia
-		// 'irox_bw
-		// 'jacket
-		// 'jackolantern
-		// 'jam
-		// 'jan1
-		// 'jan12014
-		// 'jeans
-		// 'jellybean
-		// 'jersey
-		// 'jewel
-		// 'jewelry
-		// 'jewelrygram
-		// 'jewels
-		// 'job
-		// 'jockey
-		// 'joke
-		// 'jokes
-		// 'joking
-		// 'jolly
-		// 'juju
-		// 'jump
-		// 'justask
-		// 'justgoshoot
-		// 'justin
-		// 'justinb
-		// 'justinbieberswag
-		// 'justindb
-		// 'justindrewbieber
-		// 'justquestion
-		// 'katy
-		// 'katycat
-		// 'katycats
-		// 'katykat
-		// 'katykats
-		// 'katyperry
-		// 'keepitsimple
-		// 'kick
-		// 'kickflip
-		// 'kickinit
-		// 'kickit
-		// 'kickoff
-		// 'kicks
-		// 'kickstagram
-		// 'kid
-		// 'kids
-		// 'kik
-		// 'kikit
-		// 'kikme
-		// 'kikmebored
-		// 'kikmee
-		// 'kikmeguys
-		// 'kikmemaybe
-		// 'kikmeplease
-		// 'kikmessage
-		// 'kikmessanger
-		// 'kikmessenger
-		// 'kikplease
-		// 'kikster
-		// 'kindle
-		// 'kiss
-		// 'kisses
-		// 'kitten
-		// 'kittens
-		// 'kitty
-		// 'knockout
-		// 'knowledge
-		// 'kp
-		// 'l4l
-		// 'lady
-		// 'lake
-		// 'laptops
-		// 'lash
-		// 'lashes
-		// 'laugh
-		// 'laughing
-		// 'leaf
-		// 'leap
-		// 'leavequestions
-		// 'leaves
-		// 'leeyum
-		// 'leeyumm
-		// 'leeyumpayne
-		// 'lessismore
-		// 'letsgobroncos
-		// 'letsgosomewhere
-		// 'letskik
-		// 'liam
-		// 'liampayne
-		// 'library
-		// 'life
-		// 'lifeofadventure
-		// 'lifestyle
-		// 'light
-		// 'lights
-		// 'lightsout
-		// 'like4like
-		// 'likeall
-		// 'likealways
-		// 'likeback
-		// 'likebackteam
-		// 'likeforlike
-		// 'liker
-		// 'likes
-		// 'likes4likes
-		// 'likesforlikes
-		// 'liketeam
-		// 'lil
-		// 'lilo
-		// 'liltunechi
-		// 'lilwayne @lilwayneofficial_
-		// 'lines
-		// 'lip
-		// 'lipring
-		// 'lips
-		// 'lipstick
-		// 'liquor
 		// 'listentothis
 		// 'literate
 		// 'literature
@@ -1047,32 +1154,13 @@ return [
 		// 'live
 		// 'liveauthentic
 		// 'livefolk
-		// 'lmao
-		// 'lmfao
-		// 'lol
 		// 'longboard
 		// 'longboarding
-		// 'longhair
-		// 'longhairdontcare
-		// 'look
-		// 'lookbook
-		// 'lookingup
-		// 'lookoftheday
-		// 'lookup
-		'loveheels',
-		// 'luke
-		// 'lukehemmings
-		// 'lukey
-		// 'lunch
-		// 'macro
-		// 'macro_creature_feature
-		// 'macrogardener
 		// 'macrophotography
 		// 'mahomie
 		// 'mahomieforever
 		// 'mahomiegram
 		// 'mahomies
-		// 'mahone
 		// 'makeup
 		// 'malik
 		// 'malikbaby
@@ -1082,7 +1170,6 @@ return [
 		// 'marriage
 		// 'mascara
 		// 'masterpiece
-		// 'mc_embed_signup{background:
 		// 'me
 		// 'meditate
 		// 'meditation
@@ -1092,29 +1179,13 @@ return [
 		// 'messageme
 		// 'michael
 		// 'michaelclifford
-		// 'mike
-		// 'miley
-		// 'mileycyrus
-		// 'mileyraycyrus
 		// 'mind
-		// 'minimal
-		// 'minimalhunter
-		// 'minimalisbd
-		// 'minimalism
-		// 'minimalismo
-		// 'minimalist
-		// 'minimalista
-		// 'minimalistic
-		// 'minimalistics
-		// 'minimalninja
-		// 'minimalobsession
-		'minimalove',
-		// 'minimalplanet
-		// 'miss
 		// 'mitt
 		// 'mlb
 		// 'mobile
-		'model',
+		// 'pink
+		// 'pitcher
+		// 'plants
 		// 'modestclothing
 		// 'modesty
 		// 'modifications
@@ -1145,17 +1216,11 @@ return [
 		// 'muscle
 		// 'music
 		// 'my
-		// 'myModal').modal('hide')" class="btn btn-success"></div>
-		// 'myModal').modal('show');
 		// 'mygrind
 		// 'myjam
 		// 'myjob
 		// 'mylook
 		// 'mytravelgram
-		// 'nail
-		// 'nailart
-		// 'nailpolish
-		// 'nails
 		// 'navel
 		// 'navy
 		// 'nba
@@ -1164,25 +1229,7 @@ return [
 		// 'neversaynever
 		// 'neverstopexploring
 		// 'newsong
-		// 'newyear
-		// 'newyears
-		// 'newyears2015
-		// 'newyearscelebration
-		// 'newyearsday
-		// 'newyearseve
-		// 'newyearsparty
-		// 'newyearsresolution
 		// 'nfl
-		// 'nialhoranfacts
-		// 'niall
-		// 'nialler
-		// 'niallerhoran
-		// 'niallers
-		// 'niallerwins
-		// 'niallhoran
-		// 'niallimagine
-		// 'niallisbeautiful
-		// 'nialljameshoran
 		// 'nicekicks
 		// 'night
 		// 'nightowl
@@ -1192,93 +1239,11 @@ return [
 		// 'ninernation
 		// 'niners
 		// 'ninersfaithful
-		// 'nobodysperfect
-		// 'nofilter
-		// 'noir
-		// 'nola
-		// 'nook
-		// 'ocean
-		// 'oct
-		// 'october
-		// 'office
-		// 'old
-		// 'ollie
-		// 'onedirection
-		// 'ones
-		// 'online
-		// 'onlinegaming
-		// 'ootd
-		// 'ootdshare
-		// 'opi
-		// 'opinions
-		// 'orange
-		// 'ornaments
-		// 'out
-		// 'outfit
-		// 'outfitoftheday
-		// 'outfitpost
-		// 'overcast
-		// 'ovo
-		// 'ovoxo
-		// 'pads
-		// 'page
-		// 'pages
-		// 'palettes
-		// 'pants
-		// 'paper
-		// 'parties
-		// 'partofme
-		// 'party
-		// 'partying
-		// 'partymusic
-		// 'pass
-		// 'passout
-		// 'pasteup
-		// 'payday
-		// 'payne
-		// 'peace
-		// 'peepmysneaks
-		// 'peer
-		// 'pen
-		// 'pencil
-		// 'peoplescreatives
-		// 'perfect
-		// 'perfectcurls
-		// 'perry
-		// 'perspective
-		// 'pet
-		// 'petal
-		// 'petals
-		// 'pets
-		// 'pets_of_instagram
-		// 'petsagram
-		// 'petstagram
-		// 'phone
-		// 'photo
-		// 'photooftheday
-		// 'photos
-		// 'pic
-		// 'pickles
-		// 'picoftheday
-		// 'pics
-		// 'picture
-		// 'pictures
-		// 'pierced
-		// 'piercing
-		// 'piercingaddict
-		// 'piercings
-		// 'pink
-		// 'pitcher
-		// 'plants
 		// 'platgorm
 		// 'play
 		// 'player
 		// 'playing
 		// 'playinggames
-		// 'pleasecomment
-		// 'pleasefollow
-		// 'pleaselike
-		// 'pleaseshoutout
 		// 'plot
 		// 'polish
 		// 'polo
@@ -1328,11 +1293,6 @@ return [
 		// 'rainyweather
 		// 'rap
 		// 'rapper
-		// 'ravens
-		// 'ravensfan
-		// 'ravensnation
-		// 'raylewis
-		// 'rayray
 		// 'read
 		// 'reader
 		// 'reading
@@ -1357,13 +1317,6 @@ return [
 		// 'rider
 		// 'riders
 		// 'riding
-		// 'rih
-		// 'rihanna
-		// 'rihannadiamonds
-		// 'rihannafenty
-		// 'rihannanavi
-		// 'rihannanavy
-		// 'rihnavy
 		// 'rim
 		// 'rims
 		// 'rink
@@ -1382,19 +1335,11 @@ return [
 		// 'runners
 		// 'running
 		// 'runtoinspire
-		// 's4s
-		// 'saltwater
-		// 'samsung
-		// 'samsunggalaxy
-		// 'samsunggalaxys2
 		// 'sand
 		// 'sanfrancsico
 		// 'santa
-		// 'santaclaus
 		// 'saysomething
 		// 'sayyourejustafriend
-		// 'sb47
-		// 'sb48
 		// 'scale
 		// 'scared
 		// 'scary
@@ -1491,28 +1436,12 @@ return [
 		// 'smile
 		// 'smilers
 		// 'smiles
-		// 'snap
-		// 'snapchat
-		// 'snapchatit
-		// 'snapchatme
-		// 'snapchatmegirl
-		// 'snapchatmeimbored
-		// 'snapchatmemaybe
-		// 'snapchatmenow
-		// 'snapchatmeplease
-		// 'snapchatmguys
-		// 'snapchatster
-		// 'snapit
-		// 'snapshot
+		// 'sneakers
+		// 'snooze
 		// 'sneaker
 		// 'sneakerfiend
 		// 'sneakerfreak
 		// 'sneakerhead
-		// 'sneakerheads
-		// 'sneakerholics
-		// 'sneakerporn
-		// 'sneakers
-		// 'snooze
 		// 'snow
 		// 'snowfall
 		// 'snowflakes
@@ -1634,7 +1563,6 @@ return [
 		// 'taylor
 		// 'taylorswift
 		// 'tb
-		'tbt',
 		// 'tbts
 		// 'team
 		// 'teamdroid
@@ -1723,7 +1651,6 @@ return [
 		// 'unforgettable
 		// 'unhas
 		// 'unitedinorange
-		'urban',
 		// 'urbanart
 		// 'urbanwalls
 		// 'vacation
@@ -1742,43 +1669,6 @@ return [
 		// 'visiting
 		// 'visualsgang
 		// 'visualsoflife
-		// 'vsco
-		// 'vsco_hub
-		// 'vscoapp
-		// 'vscoartist
-		// 'vscoaward
-		// 'vscobest
-		// 'vscobrasil
-		// 'vscocam
-		// 'vscocamgram
-		// 'vscocamonly
-		// 'vscocamphotos
-		// 'vscocool
-		// 'vscodaily
-		// 'vscoedit
-		// 'vscoeurope
-		// 'vscoexpo
-		// 'vscofeature
-		// 'vscofilm
-		// 'vscogallery
-		// 'vscogang
-		// 'vscogood
-		// 'vscogram
-		// 'vscogrid
-		// 'vscoism
-		// 'vscolife
-		// 'vscomania
-		// 'vscomoscow
-		// 'vsconature
-		// 'vscoonly
-		// 'vscoph
-		// 'vscophile
-		// 'vscophoto
-		// 'vscorussia
-		// 'vscostyle
-		// 'vscoturkey
-		// 'vscovibe
-		// 'vscovisuals
 		// 'wacky
 		// 'wake
 		// 'wakeup
@@ -1791,17 +1681,13 @@ return [
 		// 'waterfoam
 		// 'waves
 		// 'wayne
-		// 'wayniac
 		// 'weather
-		// 'webstagram
 		// 'wedding
 		// 'weddingcake
 		// 'weddingday
 		// 'weddingdress
 		// 'weddinggown
 		// 'weddingparty
-		// 'weezy
-		// 'weezyf
 		// 'whatiwore
 		// 'whatiworetoday
 		// 'wheel
@@ -1812,34 +1698,18 @@ return [
 		// 'win
 		// 'winning
 		// 'winter
-		// 'winter2014
 		// 'wintertime
 		// 'wisdom
-		// 'witty
-		// 'wiw
-		// 'wiwt
 		// 'words
 		// 'work
 		// 'working
 		// 'workinglate
 		// 'workout
-		'wristgame',
-		// 'xlvii
-		// 'xlviii
-		// 'xmas
 		// 'xo
-		// 'yardline
 		// 'yards
 		// 'years
 		// 'yellow
-		// 'ymcmb
-		'yolo',
-		// 'young
-		// 'youngmoney
-		// 'yum
 		// 'yummy
-		// 'zainmalik
-		// 'zayn
 	],
 
 	# Write different ways of saying hello in comments.

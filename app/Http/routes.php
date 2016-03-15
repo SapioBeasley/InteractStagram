@@ -46,12 +46,12 @@ Route::group(['middleware' => 'web'], function () {
 
 
 
-	Route::get('/foo', function () {
-		$exitCode = Artisan::call('instagram:like', [
-			'user' => '',
-			'tags' => '',
-		]);
+	// Route::get('/foo', function () {
+	// 	$exitCode = Artisan::call('insta:like', [
+	// 		'user' => '1',
+	// 		'tags' => '',
+	// 	]);
 
-		//
-	});
+	// 	//
+	// });
 });

@@ -11,7 +11,8 @@
         "socialiteproviders/instagram": "^1.1",
         "sapioweb/crudhelper": "^1.1",
         "spatie/laravel-tail": "^1.1",
-        "laravelcollective/html": "^5.2"
+        "laravelcollective/html": "^5.2",
+        "sapioweb/geocode": "^2.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
