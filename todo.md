@@ -1,0 +1,3 @@
+- [ ] Switch purpose of app to offer an easy way to post images on own site. 
+- [ ] When new post is added, send a message/comment to the originator
+- [ ] Ask the originator to share your page as a thanks
